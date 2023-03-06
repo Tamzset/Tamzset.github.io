@@ -383,39 +383,39 @@ footer .credit a {
     transform: scaleX(0.2);
     font-style: #000000;
   }
-}
-
-.about .row {
+  
+  .about .row {
   flex-wrap: wrap;
-}
+  }
 
 .about .row .content {
   padding: 0;
-}
+  }
 
 .about .row .content h3 {
   margin-top: 1rem;
   font-size: 2rem;
-}
+  }
 
 .about .row .content p {
   font-size: 1.6rem;
-}
+  }
 
 .menu p {
   font-size: 1.2rem;
-}
+  }
 
 .contact .row {
   flex-wrap: wrap;
-}
+  }
 
 .contact .row .map {
   height: 30rem;
-}
+  }
 
 .contact .row form {
   padding-top: 0;
+  }
 }
 
 /* Mobile Phone*/
